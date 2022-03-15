@@ -36,11 +36,11 @@ Download NTLM-Dementor-URL.txt file and change file extension to .NTLM-Dementor.
 rename NTLM-Dementor-URL.txt .NTLM-Dementor.url
 ```
 
-## URL (.URL) Files
+## Shell Command Files (.SCF) Files
 
-Download NTLM-Dementor-URL.txt file and change file extension to .NTLM-Dementor.library-ms
+Download NTLM-Dementor-SCF.txt file and change file extension to .NTLM-Dementor.scf
 
 ```powershell
-rename NTLM-Dementor-URL.txt .NTLM-Dementor.url
+rename NTLM-Dementor-SCF.txt .NTLM-Dementor.scf
 ```
 
