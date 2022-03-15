@@ -27,8 +27,17 @@ rename NTLM-Dementor-library-ms.txt .NTLM-Dementor.library-ms
 
 ## URL (.URL) Files
 
-Download NTLM-Dementor-library-ms.txt file and change file extension to .NTLM-Dementor.library-ms
+Download NTLM-Dementor-URL.txt file and change file extension to .NTLM-Dementor.library-ms
 
 ```powershell
-rename NTLM-Dementor-library-ms.txt .NTLM-Dementor.library-ms
+rename NTLM-Dementor-URL.txt .NTLM-Dementor.url
 ```
+
+## URL (.URL) Files
+
+Download NTLM-Dementor-URL.txt file and change file extension to .NTLM-Dementor.library-ms
+
+```powershell
+rename NTLM-Dementor-URL.txt .NTLM-Dementor.url
+```
+
