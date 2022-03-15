@@ -1,5 +1,5 @@
 # NTLM-Dementor
-Get all NetNTLM Hashes via Different Methodologies from LLMNR Poisoning 
+Get all NetNTLM Hashes via Different zero-click Methodologies from LLMNR Poisoning 
 
 ## Windows Shortcut (.LNK) Files
 
