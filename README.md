@@ -11,16 +11,24 @@ Download NTLM-Dementor-LNK.ps1 file and change the AttackerIP. Then execute the 
 
 ## Search Connector (.searchConnector-ms) Files
 
-Download NTLM-Dementor-searchConnector-ms.txt file and change file extension to NTLM-Dementor.searchConnector-ms
+Download NTLM-Dementor-searchConnector-ms.txt file and change file extension to .NTLM-Dementor.searchConnector-ms
 
 ```powershell
-rename NTLM-Dementor-searchConnector-ms.txt NTLM-Dementor.searchConnector-ms
+rename NTLM-Dementor-searchConnector-ms.txt .NTLM-Dementor.searchConnector-ms
 ```
 
 ## Windows Library (.library-ms) Files
 
-Download NTLM-Dementor-searchConnector-ms.txt file and change file extension to NTLM-Dementor.searchConnector-ms
+Download NTLM-Dementor-library-ms.txt file and change file extension to .NTLM-Dementor.library-ms
 
 ```powershell
-rename NTLM-Dementor-searchConnector-ms.txt NTLM-Dementor.searchConnector-ms
+rename NTLM-Dementor-library-ms.txt .NTLM-Dementor.library-ms
+```
+
+## URL (.URL) Files
+
+Download NTLM-Dementor-library-ms.txt file and change file extension to .NTLM-Dementor.library-ms
+
+```powershell
+rename NTLM-Dementor-library-ms.txt .NTLM-Dementor.library-ms
 ```
