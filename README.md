@@ -4,7 +4,7 @@ Get all NetNTLM Hashes via Different zero-click Methodologies from LLMNR Poisoni
 ![dementor](https://user-images.githubusercontent.com/45037356/158398102-e1a3367d-7909-4b27-bc79-1b63ca74a0d2.jpg)
 
 
-## Windows Shortcut (.LNK) Files
+### Windows Shortcut (.LNK) Files
 
 Download NTLM-Dementor-LNK.ps1 file and change the AttackerIP. Then execute the powershell script.
 
