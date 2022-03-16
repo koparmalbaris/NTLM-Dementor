@@ -10,7 +10,7 @@ Windows Shortcut (.LNK) Files Zero-Click LLMNR Poisoning Scenario
 ![NTLM-Dementor-LNK](https://bariskoparmal.files.wordpress.com/2022/03/lnk3.gif)
 
 Search Connector (.searchConnector-ms) Files Zero-Click LLMNR Poisoning Scenario
-![NTLM-Dementor-ms](https://bariskoparmal.files.wordpress.com/2022/03/searchconnector3.gif)
+![search-ms](https://user-images.githubusercontent.com/45037356/158547673-3f930cbf-f18c-4bef-979b-4a7dfda08789.gif)
 
 ## Weaponization
 
