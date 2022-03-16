@@ -60,7 +60,7 @@ rename NTLM-Dementor-SCF.txt .NTLM-Dementor.scf
 - Disable LLMNR & NBT-NS
 - Enforce SMB Signing
 - Restrict File Share Permissions
-- Disable DisableThumbnailsOnNetworkFolders and DisableThumbnails via GPO
+- Set DisableThumbnailsOnNetworkFolders and DisableThumbnails via GPO
   - https://www.windowscentral.com/how-disable-thumbnails-windows-10#manage_thumbnail_previews_grouppolicy
 
 ![mitigation3](https://user-images.githubusercontent.com/45037356/158542970-036a0deb-3dd1-45e7-8c28-e04dad8a4631.jpg)
