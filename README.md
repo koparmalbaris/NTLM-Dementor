@@ -3,6 +3,7 @@ Get all NetNTLM Hashes via Different zero-click Methodologies from LLMNR Poisoni
 
 ![dementor](https://user-images.githubusercontent.com/45037356/158398102-e1a3367d-7909-4b27-bc79-1b63ca74a0d2.jpg)
 
+## Weaponization
 
 ### Windows Shortcut (.LNK) Files
 
@@ -12,7 +13,7 @@ Download NTLM-Dementor-LNK.ps1 file and change the AttackerIP. Then execute the 
 .\NTLM-Dementor-LNK.ps1
 ```
 
-## Search Connector (.searchConnector-ms) Files
+### Search Connector (.searchConnector-ms) Files
 
 Download NTLM-Dementor-searchConnector-ms.txt file and change file extension to .NTLM-Dementor.searchConnector-ms
 
@@ -20,7 +21,7 @@ Download NTLM-Dementor-searchConnector-ms.txt file and change file extension to 
 rename NTLM-Dementor-searchConnector-ms.txt .NTLM-Dementor.searchConnector-ms
 ```
 
-## Windows Library (.library-ms) Files
+### Windows Library (.library-ms) Files
 
 Download NTLM-Dementor-library-ms.txt file and change file extension to .NTLM-Dementor.library-ms
 
@@ -28,7 +29,7 @@ Download NTLM-Dementor-library-ms.txt file and change file extension to .NTLM-De
 rename NTLM-Dementor-library-ms.txt .NTLM-Dementor.library-ms
 ```
 
-## URL (.URL) Files
+### URL (.URL) Files
 
 Download NTLM-Dementor-URL.txt file and change file extension to .NTLM-Dementor.url
 
@@ -36,7 +37,7 @@ Download NTLM-Dementor-URL.txt file and change file extension to .NTLM-Dementor.
 rename NTLM-Dementor-URL.txt .NTLM-Dementor.url
 ```
 
-## Shell Command Files (.SCF) Files
+### Shell Command Files (.SCF) Files
 
 Download NTLM-Dementor-SCF.txt file and change file extension to .NTLM-Dementor.scf
 
@@ -44,3 +45,11 @@ Download NTLM-Dementor-SCF.txt file and change file extension to .NTLM-Dementor.
 rename NTLM-Dementor-SCF.txt .NTLM-Dementor.scf
 ```
 
+## Mitigation
+- Disable LLMNR & NBT-NS
+- Enforce SMB Signing
+- Restrict File Share Permissions
+- Disable DisableThumbnailsOnNetworkFolders and DisableThumbnails via GPO
+  - https://www.windowscentral.com/how-disable-thumbnails-windows-10#manage_thumbnail_previews_grouppolicy
+
+![mitigation3](https://user-images.githubusercontent.com/45037356/158542970-036a0deb-3dd1-45e7-8c28-e04dad8a4631.jpg)
