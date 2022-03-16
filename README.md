@@ -7,7 +7,8 @@ Get all NetNTLM Hashes via Different zero-click Methodologies from LLMNR Poisoni
 After find the shared folders with "write" permissions on the network, the zero-click LLMNR Poisoning file/files are copied to the relevant share folders. In this way, NTLM hashes of all users who open the relevant shared folders can be captured.
 
 There is a TR blog post for this Zero-Click LLMNR Poisoning methodology.
-`<Zero-Click LLMNR Poisoning>` : <https://bariskoparmal.com/2022/03/15/spoiler/>
+
+`Zero-Click LLMNR Poisoning` : <https://bariskoparmal.com/2022/03/15/spoiler/>
 
 ### Windows Shortcut (.LNK) Files Zero-Click LLMNR Poisoning Scenario
 ![NTLM-Dementor-LNK](https://bariskoparmal.files.wordpress.com/2022/03/lnk3.gif)
