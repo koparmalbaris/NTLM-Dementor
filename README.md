@@ -3,6 +3,11 @@ Get all NetNTLM Hashes via Different zero-click Methodologies from LLMNR Poisoni
 
 ![dementor](https://user-images.githubusercontent.com/45037356/158398102-e1a3367d-7909-4b27-bc79-1b63ca74a0d2.jpg)
 
+## Attack Scenario
+After find the shared folders with "write" permissions on the network, the zero-click LLMNR Poisoning file/files are copied to the relevant share folders. In this way, NTLM hashes of all users who open the relevant shared folders can be captured.
+
+![NTLM-Dementor-LNK](https://bariskoparmal.files.wordpress.com/2022/03/lnk3.gif)
+
 ## Weaponization
 
 ### Windows Shortcut (.LNK) Files
